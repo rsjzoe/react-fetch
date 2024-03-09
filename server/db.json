@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cum natus laboriosam nisi laborum amet illo. Delectus nesciunt doloribus aperiam illum!",
+      "image": "login1.jpg"
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cum natus laboriosam nisi laborum amet illo. Delectus nesciunt doloribus aperiam illum!",
+      "image": "login1.jpg"
+    },
+    {
+      "id": "f116",
+      "title": "foo",
+      "body": "bonjour le monde"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
